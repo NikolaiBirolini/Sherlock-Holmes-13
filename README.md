@@ -1,6 +1,6 @@
 # Sherlock-Holmes-13
 
-Projet de C réseaux/thread/SDL2
+Projet de C réseau/thread/SDL2
 
 Ce projet a été réalisé avec Ea Steven et M. François Pecheux.
 Le but de ce projet est la maîtrise de la programmation réseau, des threads et de la bibliothéque SDL2.
