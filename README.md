@@ -2,8 +2,8 @@
 
 Projet de C réseaux/thread/SDL2
 
-Ce projet a été réalisé avec Ea Steven.
-Le but de ce projet est la maîtrise de la programmation réseaux, des threads et de la SDL2.
+Ce projet a été réalisé avec Ea Steven et M. François Pecheux.
+Le but de ce projet est la maîtrise de la programmation réseaux, des threads et de la bibliothéque SDL2.
 
 Dans ce repository, vous trouverez :
 
